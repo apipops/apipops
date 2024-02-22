@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-My name is Apolline Vast and I am a student at @42School and a graduate from ESCP Business School.
+My name is **Apolline Vast** and I am a student at [42 School](https://42.fr/) and a graduate from ESCP Business School.\
 I embarked on my coding journey at 42 and I finished the Core Curriculum in February 2024. 
 
 
