@@ -9,6 +9,6 @@ I embarked on my coding journey at 42 and I finished the Core Curriculum in Febr
 [![avast's 42 stats](https://badge.mediaplus.ma/greenbinary/avast?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) \
 
 <details>
-  <summary>Projects 💻</summary>
+### <summary>💻 Projects</summary>
   LOL
 </details>
