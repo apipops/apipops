@@ -5,13 +5,11 @@ I embarked on my coding journey at 42, in the November 2022 Piscine. I finished 
 
 
 ## 🚀 My progress at 42
-<!--
-### My level 🎯💯📊
+### My level
 [![avast's 42 stats](https://badge.mediaplus.ma/greenbinary/avast?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-### 42 Projects 💻
--->
+### My Projects
 | Project                                                        | Language      | Subject          | Score                                                |    
 |---------------------------------------------------------------:|--------------:|-----------------:|:----------------------------------------------------:|
 |                      <a href="subjects/libft.subject.pdf">Libft|              C|        Algorithms|<a href="https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2868472"><img src="grades/grade-125.png" alt="Libft Score" width="90">
