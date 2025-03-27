@@ -1,8 +1,8 @@
 ## 👋 Hi there
 
-My name is **Apolline Vast** and I am a student at [42 School](https://42.fr/) and a graduate from ESCP Business School.\
-I embarked on my coding journey at 42, during the September 2022 Piscine. I finished the Core Curriculum in February 2024. 
-
+My name is **Apolline Vast** and I am a graduate from [42 School](https://42.fr/) (2024) and ESCP Business School (2022).\
+I embarked on my coding journey at 42, learning about CC, C++ and javascript.
+Since May 2024, I have been working at [Lucca]((https://www.lucca.fr/) as a Data Engineer. As the responsible for the ingestion and storage of the data, I have learnt (and am still learning) about Python, automation, and GCP.
 
 ## 🚀 My progress at 42
 ### My level
