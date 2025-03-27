@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 My name is **Apolline Vast** and I am a graduate from [42 School](https://42.fr/) (2024) and ESCP Business School (2022).\
-I embarked on my coding journey at 42, learning about CC, C++ and javascript.
+I embarked on my coding journey at 42, learning about C, C++ and javascript.
 
 Since May 2024, I have been working at [Lucca](https://www.lucca.fr/) as a Data Engineer. As the responsible for the ingestion and storage of the data, I have learnt (and am still learning) about Python, GCP and DevOps.
 
